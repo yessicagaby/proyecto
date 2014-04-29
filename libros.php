@@ -62,25 +62,25 @@
 					<ul class="thumbnails">
 		              <li class="span4">
 		                <div class="thumbnail">
-		                  <img data-src="holder.js/300x200" alt="300x200" src="imagenes/xboxone.jpg" style="width: 300px; height: 200px;">
+		                  <img data-src="holder.js/300x200" alt="300x200" src="imagenes/100.jpg" style="width: 300px; height: 200px;">
 		                  <div class="caption">
-		                    <h3>X-Box One <a href="#" class="btn btn-primary">Ver más</a></h3>
+		                    <h3>Cien Años De Soledad <a href="#" class="btn btn-primary">Ver más</a></h3>
 		                  </div>
 		                </div>
 		              </li>
 		              <li class="span4">
 		                <div class="thumbnail">
-		                  <img data-src="holder.js/300x200" alt="300x200" src="imagenes/zapatosgucci1.jpg" style="width: 300px; height: 200px;">
+		                  <img data-src="holder.js/300x200" alt="300x200" src="imagenes/harry.jpg" style="width: 300px; height: 200px;">
 		                  <div class="caption">
-		                    <h3>X-Box One <a href="#" class="btn btn-primary">Ver más</a></h3>
+		                    <h3>Harry Potter <a href="#" class="btn btn-primary">Ver más</a></h3>
 		                  </div>
 		                </div>
 		              </li>
 		              <li class="span4">
 		                <div class="thumbnail">
-		                  <img data-src="holder.js/300x200" alt="300x200" src="imagenes/sonyxperiazl.jpg" style="width: 300px; height: 200px;">
+		                  <img data-src="holder.js/300x200" alt="300x200" src="imagenes/milucha.jpg" style="width: 300px; height: 200px;">
 		                  <div class="caption">
-		                    <h3>Sony Xperia ZL <a href="#" class="btn btn-primary">Ver más</a></h3>
+		                    <h3>Mi lucha <a href="#" class="btn btn-primary">Ver más</a></h3>
 		                  </div>
 		                </div>
 		              </li>
@@ -89,25 +89,25 @@
 		            <ul class="thumbnails">
 		              <li class="span4">
 		                <div class="thumbnail">
-		                  <img data-src="holder.js/300x200" alt="300x200" src="imagenes/callofdutymw.jpg" style="width: 300px; height: 200px;">
+		                  <img data-src="holder.js/300x200" alt="300x200" src="imagenes/principito.jpg" style="width: 300px; height: 200px;">
 		                  <div class="caption">
-		                    <h3>Call of Duty Modern Warfare <a href="#" class="btn btn-primary">Ver más</a></h3>
+		                    <h3>EL Principito<a href="#" class="btn btn-primary">Ver más</a></h3>
 		                  </div>
 		                </div>
 		              </li>
 		              <li class="span4">
 		                <div class="thumbnail">
-		                  <img data-src="holder.js/300x200" alt="300x200" src="imagenes/fifa14.jpg" style="width: 300px; height: 200px;">
+		                  <img data-src="holder.js/300x200" alt="300x200" src="imagenes/romeo.jpg" style="width: 300px; height: 200px;">
 		                  <div class="caption">
-		                    <h3>Fifa 14 <a href="#" class="btn btn-primary">Ver más</a></h3>
+		                    <h3>Romeo Y Julieta <a href="#" class="btn btn-primary">Ver más</a></h3>
 		                  </div>
 		                </div>
 		              </li>
 		              <li class="span4">
 		                <div class="thumbnail">
-		                  <img data-src="holder.js/300x200" alt="300x200" src="imagenes/nortonantivirus.jpg" style="width: 300px; height: 200px;">
+		                  <img data-src="holder.js/300x200" alt="300x200" src="imagenes/vampiro.jpg" style="width: 300px; height: 200px;">
 		                  <div class="caption">
-		                    <h3>Norton Antivirus <a href="#" class="btn btn-primary">Ver más</a></h3>
+		                    <h3>Entrevista Con EL Vampiro <a href="#" class="btn btn-primary">Ver más</a></h3>
 		                  </div>
 		                </div>
 		              </li>

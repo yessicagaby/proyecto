@@ -62,25 +62,25 @@
 					<ul class="thumbnails">
 		              <li class="span4">
 		                <div class="thumbnail">
-		                  <img data-src="holder.js/300x200" alt="300x200" src="imagenes/zapatossociales.jpg" style="width: 300px; height: 200px;">
+		                  <img data-src="holder.js/300x200" alt="300x200" src="imagenes/aero.jpg" style="width: 300px; height: 200px;">
 		                  <div class="caption">
-		                    <h3>Keds Facebook <a href="#" class="btn btn-primary">Ver más</a></h3>
+		                    <h3>Blusa Aeropostale de Dama<a href="#" class="btn btn-primary">Ver más</a></h3>
 		                  </div>
 		                </div>
 		              </li>
 		              <li class="span4">
 		                <div class="thumbnail">
-		                  <img data-src="holder.js/300x200" alt="300x200" src="imagenes/zapatosgucci1.jpg" style="width: 300px; height: 200px;">
+		                  <img data-src="holder.js/300x200" alt="300x200" src="imagenes/nike.jpg" style="width: 300px; height: 200px;">
 		                  <div class="caption">
-		                    <h3>Zapatos de dama Gucci <a href="#" class="btn btn-primary">Ver más</a></h3>
+		                    <h3>Zapatos Deportivos Para Caballero  <a href="#" class="btn btn-primary">Ver más</a></h3>
 		                  </div>
 		                </div>
 		              </li>
 		              <li class="span4">
 		                <div class="thumbnail">
-		                  <img data-src="holder.js/300x200" alt="300x200" src="imagenes/adidasfacebook.jpg" style="width: 300px; height: 200px;">
+		                  <img data-src="holder.js/300x200" alt="300x200" src="imagenes/holi.jpg" style="width: 300px; height: 200px;">
 		                  <div class="caption">
-		                    <h3>Tennis Facebook Adidas <a href="#" class="btn btn-primary">Ver más</a></h3>
+		                    <h3>Playera Para caballero  <a href="#" class="btn btn-primary">Ver más</a></h3>
 		                  </div>
 		                </div>
 		              </li>
@@ -89,25 +89,25 @@
 		            <ul class="thumbnails">
 		              <li class="span4">
 		                <div class="thumbnail">
-		                  <img data-src="holder.js/300x200" alt="300x200" src="imagenes/playeraverde.jpg" style="width: 300px; height: 200px;">
+		                  <img data-src="holder.js/300x200" alt="300x200" src="imagenes/tim.jpg" style="width: 300px; height: 200px;">
 		                  <div class="caption">
-		                    <h3>Playera Abercromnie Verde <a href="#" class="btn btn-primary">Ver más</a></h3>
+		                    <h3>Botas Para Dama Timberland<a href="#" class="btn btn-primary">Ver más</a></h3>
 		                  </div>
 		                </div>
 		              </li>
 		              <li class="span4">
 		                <div class="thumbnail">
-		                  <img data-src="holder.js/300x200" alt="300x200" src="imagenes/abercrombierayada.jpg" style="width: 300px; height: 200px;">
+		                  <img data-src="holder.js/300x200" alt="300x200" src="imagenes/jo.jpg" style="width: 300px; height: 200px;">
 		                  <div class="caption">
-		                    <h3>Playera Abercrombie Rayada <a href="#" class="btn btn-primary">Ver más</a></h3>
+		                    <h3>Zapato Deportivo Para caballero Jordan<a href="#" class="btn btn-primary">Ver más</a></h3>
 		                  </div>
 		                </div>
 		              </li>
 		              <li class="span4">
 		                <div class="thumbnail">
-		                  <img data-src="holder.js/300x200" alt="300x200" src="imagenes/leggins.jpg" style="width: 300px; height: 200px;">
+		                  <img data-src="holder.js/300x200" alt="300x200" src="imagenes/azules.jpg" style="width: 300px; height: 200px;">
 		                  <div class="caption">
-		                    <h3>Leggins <a href="#" class="btn btn-primary">Ver más</a></h3>
+		                    <h3>Zapato De Dama Gucci <a href="#" class="btn btn-primary">Ver más</a></h3>
 		                  </div>
 		                </div>
 		              </li>

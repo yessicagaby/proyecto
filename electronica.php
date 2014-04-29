@@ -70,9 +70,9 @@
 		              </li>
 		              <li class="span4">
 		                <div class="thumbnail">
-		                  <img data-src="holder.js/300x200" alt="300x200" src="imagenes/zapatosgucci1.jpg" style="width: 300px; height: 200px;">
+		                  <img data-src="holder.js/300x200" alt="300x200" src="imagenes/ipad.jpg" style="width: 300px; height: 200px;">
 		                  <div class="caption">
-		                    <h3>X-Box One <a href="#" class="btn btn-primary">Ver más</a></h3>
+		                    <h3>Ipad <a href="#" class="btn btn-primary">Ver más</a></h3>
 		                  </div>
 		                </div>
 		              </li>
@@ -89,25 +89,25 @@
 		            <ul class="thumbnails">
 		              <li class="span4">
 		                <div class="thumbnail">
-		                  <img data-src="holder.js/300x200" alt="300x200" src="imagenes/callofdutymw.jpg" style="width: 300px; height: 200px;">
+		                  <img data-src="holder.js/300x200" alt="300x200" src="imagenes/iphone.jpg" style="width: 300px; height: 200px;">
 		                  <div class="caption">
-		                    <h3>Call of Duty Modern Warfare <a href="#" class="btn btn-primary">Ver más</a></h3>
+		                    <h3>Iphone 5S <a href="#" class="btn btn-primary">Ver más</a></h3>
 		                  </div>
 		                </div>
 		              </li>
 		              <li class="span4">
 		                <div class="thumbnail">
-		                  <img data-src="holder.js/300x200" alt="300x200" src="imagenes/fifa14.jpg" style="width: 300px; height: 200px;">
+		                  <img data-src="holder.js/300x200" alt="300x200" src="imagenes/ps4.jpg" style="width: 300px; height: 200px;">
 		                  <div class="caption">
-		                    <h3>Fifa 14 <a href="#" class="btn btn-primary">Ver más</a></h3>
+		                    <h3>Playstation 4 <a href="#" class="btn btn-primary">Ver más</a></h3>
 		                  </div>
 		                </div>
 		              </li>
 		              <li class="span4">
 		                <div class="thumbnail">
-		                  <img data-src="holder.js/300x200" alt="300x200" src="imagenes/nortonantivirus.jpg" style="width: 300px; height: 200px;">
+		                  <img data-src="holder.js/300x200" alt="300x200" src="imagenes/galaxy.jpg" style="width: 300px; height: 200px;">
 		                  <div class="caption">
-		                    <h3>Norton Antivirus <a href="#" class="btn btn-primary">Ver más</a></h3>
+		                    <h3>Samsung Galaxy S5 <a href="#" class="btn btn-primary">Ver más</a></h3>
 		                  </div>
 		                </div>
 		              </li>

@@ -62,25 +62,25 @@
 					<ul class="thumbnails">
 		              <li class="span4">
 		                <div class="thumbnail">
-		                  <img data-src="holder.js/300x200" alt="300x200" src="imagenes/xboxone.jpg" style="width: 300px; height: 200px;">
+		                  <img data-src="holder.js/300x200" alt="300x200" src="imagenes/cuadros.jpg" style="width: 300px; height: 200px;">
 		                  <div class="caption">
-		                    <h3>X-Box One <a href="#" class="btn btn-primary">Ver más</a></h3>
+		                    <h3>Cuadros <a href="#" class="btn btn-primary">Ver más</a></h3>
 		                  </div>
 		                </div>
 		              </li>
 		              <li class="span4">
 		                <div class="thumbnail">
-		                  <img data-src="holder.js/300x200" alt="300x200" src="imagenes/zapatosgucci1.jpg" style="width: 300px; height: 200px;">
+		                  <img data-src="holder.js/300x200" alt="300x200" src="imagenes/floreo.jpg" style="width: 300px; height: 200px;">
 		                  <div class="caption">
-		                    <h3>X-Box One <a href="#" class="btn btn-primary">Ver más</a></h3>
+		                    <h3>Florero Rustico <a href="#" class="btn btn-primary">Ver más</a></h3>
 		                  </div>
 		                </div>
 		              </li>
 		              <li class="span4">
 		                <div class="thumbnail">
-		                  <img data-src="holder.js/300x200" alt="300x200" src="imagenes/sonyxperiazl.jpg" style="width: 300px; height: 200px;">
+		                  <img data-src="holder.js/300x200" alt="300x200" src="imagenes/lamp2.jpg" style="width: 300px; height: 200px;">
 		                  <div class="caption">
-		                    <h3>Sony Xperia ZL <a href="#" class="btn btn-primary">Ver más</a></h3>
+		                    <h3> Juego De Lamparas Gaby <a href="#" class="btn btn-primary">Ver más</a></h3>
 		                  </div>
 		                </div>
 		              </li>
@@ -89,25 +89,25 @@
 		            <ul class="thumbnails">
 		              <li class="span4">
 		                <div class="thumbnail">
-		                  <img data-src="holder.js/300x200" alt="300x200" src="imagenes/callofdutymw.jpg" style="width: 300px; height: 200px;">
+		                  <img data-src="holder.js/300x200" alt="300x200" src="imagenes/lampara.jpg" style="width: 300px; height: 200px;">
 		                  <div class="caption">
-		                    <h3>Call of Duty Modern Warfare <a href="#" class="btn btn-primary">Ver más</a></h3>
+		                    <h3>Lampara Imperial <a href="#" class="btn btn-primary">Ver más</a></h3>
 		                  </div>
 		                </div>
 		              </li>
 		              <li class="span4">
 		                <div class="thumbnail">
-		                  <img data-src="holder.js/300x200" alt="300x200" src="imagenes/fifa14.jpg" style="width: 300px; height: 200px;">
+		                  <img data-src="holder.js/300x200" alt="300x200" src="imagenes/mesa.jpg" style="width: 300px; height: 200px;">
 		                  <div class="caption">
-		                    <h3>Fifa 14 <a href="#" class="btn btn-primary">Ver más</a></h3>
+		                    <h3>Mesa De Centro JONASIN <a href="#" class="btn btn-primary">Ver más</a></h3>
 		                  </div>
 		                </div>
 		              </li>
 		              <li class="span4">
 		                <div class="thumbnail">
-		                  <img data-src="holder.js/300x200" alt="300x200" src="imagenes/nortonantivirus.jpg" style="width: 300px; height: 200px;">
+		                  <img data-src="holder.js/300x200" alt="300x200" src="imagenes/sillon.jpg" style="width: 300px; height: 200px;">
 		                  <div class="caption">
-		                    <h3>Norton Antivirus <a href="#" class="btn btn-primary">Ver más</a></h3>
+		                    <h3>Sillon<a href="#" class="btn btn-primary">Ver más</a></h3>
 		                  </div>
 		                </div>
 		              </li>
